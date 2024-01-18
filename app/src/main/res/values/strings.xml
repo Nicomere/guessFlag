@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IndovinaBandiera</string>
+    <string name="start">START</string>
+    <string name="vittorie">Vittorie:</string>
+    <string name="_0">0</string>
+    <string name="winCount">0</string>
+</resources>
